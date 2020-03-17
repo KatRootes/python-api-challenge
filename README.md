@@ -16,5 +16,5 @@ Examine weather across the globe and look for patterns at a single point in time
 
 # Screen Shot
 Sample plot of locations (yellow) vs found cities (green).
-![Cities](https://github.com/KatRootes/python-api-challenge/blob/master/Capture.PNK)
+![Cities](https://github.com/KatRootes/python-api-challenge/blob/master/Capture.PNG)
 
